@@ -8,7 +8,7 @@ This project explores movie recommendation using **four different programming pa
 - **Prolog** – Logic-based reasoning for recommendation rules  
 - **Scheme** – Functional paradigm for list processing and transformations
 
-We use the **Movie Lens Small Latest Dataset(ml-latest-small) dataset** to analyze user preferences and recommend movies based on genres, ratings, and viewing history.
+We use the **Movie Lens Small Latest Dataset(ml-latest-small) dataset** to analyze user preferences and recommend movies based on ratings, and viewing history.
 
 ### 🧠 Goals
 - Compare the implementation of a common algorithm across different paradigms
