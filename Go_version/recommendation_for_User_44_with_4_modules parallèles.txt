@@ -1,0 +1,27 @@
+Number of CPUs:8
+Recommendations for which user?
+
+Recommendations for user # 44 :
+Movie: Phenomenon (1996), Score: 0.0581
+Movie: Ransom (1996), Score: 0.0492
+Movie: Nutty Professor, The (1996), Score: 0.0428
+Movie: River Wild, The (1994), Score: 0.0426
+Movie: Nixon (1995), Score: 0.0419
+Movie: Multiplicity (1996), Score: 0.0414
+Movie: Dragonheart (1996), Score: 0.0411
+Movie: Father of the Bride Part II (1995), Score: 0.0387
+Movie: Courage Under Fire (1996), Score: 0.0377
+Movie: Long Kiss Goodnight, The (1996), Score: 0.0353
+Movie: Mighty Aphrodite (1995), Score: 0.0348
+Movie: Secret of Roan Inish, The (1994), Score: 0.0348
+Movie: Primal Fear (1996), Score: 0.0348
+Movie: Truth About Cats & Dogs, The (1996), Score: 0.0340
+Movie: Sgt. Bilko (1996), Score: 0.0334
+Movie: Leaving Las Vegas (1995), Score: 0.0326
+Movie: Powder (1995), Score: 0.0326
+Movie: Ghost and the Darkness, The (1996), Score: 0.0314
+Movie: Frighteners, The (1996), Score: 0.0310
+Movie: Star Trek: First Contact (1996), Score: 0.0297
+
+
+Execution time: 833.4853ms
